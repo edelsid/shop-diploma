@@ -1,0 +1,7 @@
+export * from './404'
+export * from './About'
+export * from './Cart'
+export * from './Catalogue'
+export * from './Contacts'
+export * from './Index.jsx'
+export * from './Product'
